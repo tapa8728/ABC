@@ -8,7 +8,7 @@ body {
 	margin-right: 20px;
 	font-size: 20px;
 	font-style: bold;
-	font-family: "Trebuchet MS", Helvetica, sans-serif
+	font-family: 'Signika Negative', sans-serif;
 }
 
 #blah {
@@ -18,7 +18,7 @@ body {
 	margin-right: 20px;
 	font-size: 15px;
 	font-style: bold;
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-family:'Signika Negative', sans-serif;
 }
 
 #linkedin {
@@ -26,21 +26,21 @@ body {
 	margin-right: 20px;
 	color: #26B2CC;
 	font-size: 14px;
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-family: 'Signika Negative', sans-serif; 
 }
 
 #intro {
 	color: #26B2CC;
 	margin-left: 20px;
 	font-size: 14px;
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-family:'Signika Negative', sans-serif;
 }
 
 #question {
 	color: black;
 	margin-left: 80px;
 	font-size: 16px;
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-family: 'Gudea', sans-serif;
 }
 
 #answer{
@@ -48,6 +48,6 @@ body {
     margin-left: 80px;
 	margin-right: 80px;
 	font-size: 16px;
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-family: 'Lato', sans-serif;
 	
 }
